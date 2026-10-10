@@ -1390,8 +1390,6 @@ Building all of this from scratch is **months** of engineering. Here's a realist
 | Bug fixing, edge cases, polish | 2–4 weeks |
 | **Total** | **~4–6 months** |
 
-And that's assuming you've done this before. First-time? Double it.
-
 ---
 
 ## See It in Action
